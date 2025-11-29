@@ -1,0 +1,24 @@
+h1{
+
+
+    border:3px solid hsl(273, 100%, 54%);
+    border-radius:20px;
+
+
+   /* border-style: solid;
+    none,solid,dashed, dotted, double, groove, ridge, inset, outset
+    border-width: 3px;
+    border-color: hsl(273, 100%, 54%);
+    border-radius: 20px;
+
+    */
+
+}
+p{
+    border-bottom: 3px solid hsl(273, 100%, 54%);
+    border-top:3px solid rgb(255,255,35);
+    border-left: 3px solid hsl(27, 100%, 54%);
+    border-right: 3px solid rgb(255,25,35);
+
+    border-radius:10px;
+}
