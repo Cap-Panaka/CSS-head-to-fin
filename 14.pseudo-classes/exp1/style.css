@@ -1,0 +1,19 @@
+a:link{
+    color: hsl(200, 70%, 50%);
+}
+
+a:hover 
+{
+    color: hsl(129, 100%, 50%);
+    font-size: 1.1em ;
+
+}
+a:active 
+{
+    color: hsl(248, 88%, 38%);
+    font-size:1.1em;
+}
+a:visited 
+{
+    color: hsl(0, 100%, 49%);
+}
