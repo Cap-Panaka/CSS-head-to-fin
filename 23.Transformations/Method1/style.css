@@ -24,3 +24,42 @@ body{
 {
     background-color: rgb(4, 13, 255);
 }
+
+
+
+
+/*body{
+    margin: 0;
+}
+
+#box1
+{
+    width:250px;
+    height: 250px;
+    border: 5px solid;
+    font-size: 13em;
+    text-align: center;
+    background-color: palegreen;
+
+
+   /* transform: translate(50px,50px);  */  
+
+   /* transform: rotateY(45deg); /* (X,Y,Z) axis */
+
+   /*transform: scale(0.5,1); */
+
+   /*transform: skewY(45deg);*/
+
+   /*transform: translateX(100%) rotateZ(90deg) scale(0.5); */
+
+/*
+
+} */
+
+
+
+
+
+
+
+
